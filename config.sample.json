@@ -1,0 +1,17 @@
+{
+  "_": "이 파일을 config.json 으로 복사한 뒤 경로를 자기 컴퓨터에 맞게 고칩니다. config.json 은 저장소에 올라가지 않습니다.",
+
+  "siteDir": "C:/Users/<나>/Desktop/claude2/jjam-classroom/1min",
+  "workDir": "C:/Users/<나>/Desktop/claude2/jjam-1min",
+  "textbookDir": "C:/Users/<나>/Desktop/claude2/classall/textbook",
+
+  "youtubeChannel": "Shway Song",
+  "playlist": "짬짬이 1분 수업 | 사회 5-2",
+
+  "defaults": {
+    "publisher": "천재교과서",
+    "subject": "사회",
+    "grade": 5,
+    "semester": 2
+  }
+}

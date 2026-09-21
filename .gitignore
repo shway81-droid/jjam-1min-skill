@@ -1,0 +1,8 @@
+# 컴퓨터마다 다른 경로 설정. config.sample.json 을 복사해 쓴다.
+config.json
+
+# OS·에디터
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
