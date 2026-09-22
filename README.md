@@ -55,6 +55,7 @@ SKILL.md                  전체 절차. 규칙마다 실측 근거가 붙어 �
 config.sample.json        경로 설정 본보기 (복사해서 config.json 으로)
 references/prompt.md      숏폼 생성 프롬프트 골격과 실제 예시
 references/troubleshooting.md  밟았던 함정 모음 (막히면 여기서 먼저 찾는다)
+references/실측기록.md          규칙이 어디서 나왔는지 보여 주는 작업 일지
 scripts/config.mjs        경로 설정 읽기
 scripts/add-lesson.mjs    사이트 데이터에 차시 한 건 추가 (중복·형식 검사 포함)
 scripts/frames.mjs        mp4 → 규격 확인 + 검수용 프레임 시트
