@@ -14,9 +14,9 @@ Aside 계정 스킬 폴더에 클론합니다.
 
 ```bash
 # 윈도우
-git clone https://github.com/shway81-droid/jjam-1min.git "$env:USERPROFILE/.aside/u/0/skills/user/jjam-1min"
+git clone https://github.com/shway81-droid/jjam-1min-skill.git "$env:USERPROFILE/.aside/u/0/skills/user/jjam-1min"
 # 맥·리눅스
-git clone https://github.com/shway81-droid/jjam-1min.git ~/.aside/u/0/skills/user/jjam-1min
+git clone https://github.com/shway81-droid/jjam-1min-skill.git ~/.aside/u/0/skills/user/jjam-1min
 ```
 
 경로를 자기 컴퓨터에 맞게 적습니다.
